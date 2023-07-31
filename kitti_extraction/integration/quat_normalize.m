@@ -1,4 +1,4 @@
-function [qn] = quat_normalize(a)
+function [qn] = quat_normalize(q)
 % QUAT_NORMALIZE Normalize quaternion.
 %
 %   [qn] = QUAT_NORMALIZE(q) returns the normalized verion of q, with unit
